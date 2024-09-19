@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Nullable>enable</Nullable>
+        <RootNamespace>org.zhangwenqing.utilities</RootNamespace>
+        <LangVersion>11</LangVersion>
+        <TargetFrameworks>netstandard2.1;net6.0;net8.0</TargetFrameworks>
+    </PropertyGroup>
+
+</Project>
